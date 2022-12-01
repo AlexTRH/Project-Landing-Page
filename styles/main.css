@@ -196,6 +196,12 @@ footer {
     background-color: #1F2937;
     color: #fff;
     font-family: 'Roboto', sans-serif;
+    margin-bottom: auto;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+p {
     margin: 0;
     padding: 0;
-}
+    }
